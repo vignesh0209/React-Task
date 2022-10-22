@@ -1,14 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Form</h1>
-      
-      
-    </div>
-  );
+import Demo from "./Components/Demo";
+
+function App(){
+  return(
+    
+   <Demo />
+  
+  )
 }
 
 export default App;
+
+
