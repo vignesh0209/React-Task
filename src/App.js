@@ -1,10 +1,10 @@
 
-import Demo from "./Components/Demo";
+import Car from "./Components/Demo1";
 
 function App(){
   return(
     
-   <Demo />
+   <Car />
   
   )
 }
